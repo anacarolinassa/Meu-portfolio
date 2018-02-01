@@ -1,0 +1,44 @@
+.menu {
+	background-color: #D2D6D4;
+	text-align: center;
+    color: #383d41;
+}
+
+.center {
+	text-align: center;
+	font-family: 'Laila', serif;
+}
+.img-profile {
+    border-radius: 52pt;
+    width: 72%;
+
+}
+    .home{
+    	background-image: url('../imagens/bg.png');
+}
+    .btn-warning {
+    color: #212529;
+    background-color: #dae0e5;
+    border-color: #dae0e5;
+ }
+ .col-sm-6 {
+	width: 60%;
+	float: right;
+}
+.title{
+	font-weight: bold;
+}
+.footer{
+	border-top: 1px 
+}
+#contato{
+	background-color: #D2D6D4;
+	padding: 1rem;
+}
+#nav-item{
+    color: #383d41;
+}
+.portfolio{
+	border-radius: 52pt;
+    width: 72%;
+}
